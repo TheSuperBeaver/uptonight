@@ -13,7 +13,6 @@ from astroplan import (
     Observer,
     download_IERS_A,
     is_observable,
-    observability_table,
     time_grid_from_range,
 )
 from astroplan.plots import plot_sky
@@ -22,11 +21,13 @@ from astropy.coordinates import AltAz, EarthLocation, SkyCoord, get_body
 from astropy.time import Time
 from matplotlib import cm
 from pytz import timezone
+import numpy as np
 
 from uptonight.const import (
     BODIES,
     CUSTOM_TARGETS,
 )
+from uptonight.magnitudeCalculator import MagnitudeCalculator
 from uptonight.plot import Plot
 from uptonight.report import Report
 from uptonight.sunmoon import SunMoon
@@ -530,7 +531,7 @@ class UpTonight:
         # Bodies
         object_frame = AltAz(obstime=time_grid, location=self._observer.location)
 
-        for name, planet_label, color, size in BODIES:
+        for name, planet_label, color, size, horizon_id in BODIES:
             if planet_label != "sun":
                 if planet_label != "moon":
                     # No altitude constraints for the planets
@@ -550,9 +551,27 @@ class UpTonight:
                     time_range=self._observation_timeframe["time_range"],
                 )
                 if True in observable:
-                    _LOGGER.info(f"%s is observable", planet_label.capitalize())
+                    _LOGGER.info(f"{planet_label} is observable")
                     object_body = get_body(planet_label, time_grid)
                     object_altaz = object_body.transform_to(object_frame)
+                    magnitude = MagnitudeCalculator.calculate_magnitude(time_grid, self._observer, horizon_id)
+                    uptonight_targets.add_row(
+                    (
+                        name,
+                        object_body.to_string("hmsdms")[0],
+                        object_body.ra[0],
+                        object_body.dec[0],
+                        object_altaz.alt[0],
+                        object_altaz.az[0],
+                        '',
+                        '',
+                        'Planet',
+                        'Solar System',
+                        size,
+                        magnitude,
+                        0,
+                    ))
+                    
                     ax = plot_sky(
                         object_altaz,
                         self._observer,
@@ -563,7 +582,7 @@ class UpTonight:
 
         # Sun
         if self._live and self._sun_moon.sun_altitude() > 0:
-            name, planet_label, color, size = BODIES[0]
+            name, planet_label, color, size, horizon_id = BODIES[0]
             object_body = get_body(planet_label, time_grid)
             object_altaz = object_body.transform_to(object_frame)
             ax = plot_sky(

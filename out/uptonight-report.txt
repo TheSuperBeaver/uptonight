@@ -1,0 +1,62 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UpTonight
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Observatory: Backyard
+ - Location: 4.08 deg, 50.57 deg, 90.00 m
+
+Observation timespan: 08/15 23:20 to 08/16 04:15 in astronomical darkness
+Moon illumination: 81%
+Contraints: Altitude constraint minimum: 30°, maximum: 80°, Airmass constraint: 2, Moon separation constraint: 81°, Size constraint minimum: 10', maximum: 300'
+Altitude and Azimuth calculated for 08/15 23:20
+
+                                            target name                                 hmsdms right ascension declination altitude azimuth    meridian transit antimeridian transit              type constellation  size   mag foto
+------------------------------------------------------- -------------------------------------- --------------- ----------- -------- ------- ------------------- -------------------- ----------------- ------------- ----- ----- ----
+      Phantom of the Opera Nebula (Sh2-173, 25.0', 0.0)                   00h21m16s +61d43m30s             5.3        61.7     48.7    44.0                                            Emission Nebula    Cassiopeia  25.0   0.0  1.0
+                      Cave Nebula (Sh2-155, 40.0', 0.0)                   22h57m54s +62d31m06s           344.5        62.5     58.3    46.2 08/16/2024 03:02:53                            Dark Nebula       Cepheus  40.0   0.0  1.0
+               Double Cluster Duo (NGC 869, 60.0', 0.0)                   02h19m00s +57d07m42s            34.8        57.1     33.7    38.7                                               Open Cluster       Perseus  60.0   0.0  1.0
+                          Ced214 (NGC 7822, 60.0', 0.0)                   00h03m36s +67d09m00s             0.9        67.1     52.0    36.6 08/16/2024 04:08:42                        Emission Nebula       Cepheus  60.0   0.0  1.0
+                   Bubble Nebula (NGC 7635, 15.0', 0.0)                   23h20m45s +61d12m42s           350.2        61.2     55.5    47.9 08/16/2024 03:25:47                        Emission Nebula    Cassiopeia  15.0   0.0  1.0
+          Deer Lick Galaxy Group (NGC 7331, 25.0', 9.5)                   22h37m04s +34d24m57s           339.2        34.4     50.4    94.0 08/16/2024 02:42:15                                 Galaxy       Pegasus  25.0   9.5  1.0
+                     Iris Nebula (NGC 7023, 60.0', 7.1)                   21h01m36s +68d10m10s           315.5        68.2     68.1    26.2 08/16/2024 01:06:14                      Reflection Nebula       Cepheus  60.0   7.1  1.0
+                  Fishhead Nebula (IC 1795, 30.0', 0.0)                   02h26m32s +62d02m39s            36.6        62.0     36.2    33.4                                            Emission Nebula    Cassiopeia  30.0   0.0  1.0
+                    Heart Nebula (IC 1805, 120.0', 0.0)                   02h32m47s +61d28m30s            38.2        61.5     35.3    33.3                                            Emission Nebula    Cassiopeia 120.0   0.0  1.0
+   ET or Owl or Dragonfly Cluster (NGC 457, 13.0', 6.4)                   01h19m35s +58d17m12s            19.9        58.3     40.6    43.6                                               Open Cluster    Cassiopeia  13.0   6.4  1.0
+            Gamma Cassiopeia Nebula (IC 63, 20.0', 0.0)                   00h59m29s +60d54m42s            14.9        60.9     44.2    42.3                                            Emission Nebula    Cassiopeia  20.0   0.0  1.0
+             Reaching Hand Nebula (LBN 438, 30.0', 0.0)                   22h41m17s +37d45m36s           340.2        37.8     51.8    89.0 08/16/2024 02:46:26                        Molecular Cloud       Lacerta  30.0   0.0  1.0
+                    PacMan Nebula (NGC 281, 35.0', 0.0)                   00h52m54s +56d37m29s            13.2        56.6     42.8    48.0                                            Emission Nebula    Cassiopeia  35.0   0.0  1.0
+                Loop of Darkness (LBN 468, 120.0', 0.0)                   20h42m29s +67d51m00s           310.5        67.9     69.7    23.5 08/16/2024 00:47:07                        Molecular Cloud       Cepheus 120.0   0.0  1.0
+                     Shark Nebula (LBN 535, 15.0', 0.0)                   22h14m55s +73d25m00s           333.8        73.4     60.3    23.8 08/16/2024 02:19:30                      Reflection Nebula       Cepheus  15.0   0.0  1.0
+              Angler Fish Nebula (LDN 1251, 90.0', 0.0)                   22h36m03s +75d15m35s           339.0        75.2     58.2    21.6 08/16/2024 02:40:39                            Dark Nebula       Cepheus  90.0   0.0  1.0
+                   Andromeda Galaxy (M 31, 189.0', 3.4)                   00h42m44s +41d16m08s            10.7        41.3     35.3    65.5                                                     Galaxy     Andromeda 189.0   3.4  1.0
+                        Cigar Galaxy (M 82, 10.0', 8.4)                   09h55m53s +69d40m50s           149.0        69.7     33.7   344.2                      08/16/2024 02:02:01            Galaxy    Ursa Major  10.0   8.4  1.0
+           Valentine Rose Nebula (Sh2-174, 10.0', 14.7)                   23h47m08s +80d49m22s           356.8        80.8     53.2    14.1 08/16/2024 03:52:06                       Planetary Nebula       Cepheus  10.0  14.7  1.0
+                      Wolf's Cave (vdB 152, 60.0', 9.3)                   22h14m02s +69d56m00s           333.5        69.9     61.7    30.3 08/16/2024 02:18:46                      Reflection Nebula       Cepheus  60.0   9.3  1.0
+                    Ghost Nebula (vdB 141, 20.0', 10.8)                   21h16m27s +68d15m52s           319.0        68.2     67.0    28.3 08/16/2024 01:21:06                      Reflection Nebula       Cepheus  20.0  10.8  1.0
+                     Shark Nebula (vdB 150, 11.0', 8.4)                   22h09m40s +73d23m25s           332.5        73.4     60.7    23.5 08/16/2024 02:14:14                      Reflection Nebula       Cepheus  11.0   8.4  1.0
+          CTB 1 or Garlic Nebula (Abell 85, 35.0', 0.0)                   23h59m54s +62d26m51s           360.0        62.4     51.2    44.1 08/16/2024 04:04:59                      Supernova Remnant    Cassiopeia  35.0   0.0  1.0
+                    Gecko Nebula (LBN 437, 120.0', 0.0)                   22h38m13s +41d05m24s           339.5        41.1     54.2    85.0 08/16/2024 02:43:22                        Molecular Cloud       Lacerta 120.0   0.0  0.9
+Squid Nebula or Flying Bat (SH2-129) (OU 4, 60.0', 0.0)                   21h11m47s +59d57m01s           318.0        59.9     71.2    48.7 08/16/2024 01:16:43                        Emission Nebula       Cepheus  60.0   0.0  0.9
+              Lobster Claw Nebula (Sh2-157, 70.0', 0.0)                   23h16m04s +60d02m06s           349.0        60.0     55.8    50.2 08/16/2024 03:21:06                      Wolf-Rayet Nebula    Cassiopeia  70.0   0.0  0.9
+                Fireworks Galaxy (NGC 6946, 11.0', 9.0)                   20h34m52s +60d09m14s           308.8        60.2     75.3    41.4 08/16/2024 00:39:47                                 Galaxy        Cygnus  11.0   9.0  0.9
+              Outer Limits Galaxy (NGC 891, 14.0', 9.9)                   02h22m33s +42d20m54s            35.6        42.3     22.7    49.9                                                     Galaxy     Andromeda  14.0   9.9  0.8
+                 Caroline's Rose (NGC 7789, 25.0', 6.7)                   23h57m24s +56d42m30s           359.2        56.7     49.7    52.8 08/16/2024 04:02:28                           Open Cluster    Cassiopeia  25.0   6.7  0.8
+                 Splinter Galaxy (NGC 5907, 12.0', 0.0)                   15h15m54s +56d19m45s           229.0        56.3     55.0   303.0                                                     Galaxy         Draco  12.0   0.0  0.8
+                   Pelican Nebula (IC 5070, 80.0', 0.0)                   20h51m01s +44d24m05s           312.8        44.4     72.9   101.4 08/16/2024 00:56:15                        Emission Nebula        Cygnus  80.0   0.0  0.7
+                   Triangulum Galaxy (M 33, 70.0', 5.7)                   01h33m51s +30d39m37s            23.5        30.7     20.5    66.1                                                     Galaxy           Tri  70.0   5.7  0.7
+                   Wizard Nebula (NGC 7380, 25.0', 0.0)                   22h47m21s +58d07m54s           341.8        58.1     59.1    54.9 08/16/2024 02:52:23                        Emission Nebula       Cepheus  25.0   0.0  0.7
+                      Lion Nebula (Sh2-132, 60.0', 0.0)                   22h19m09s +56d04m45s           334.8        56.1     62.6    60.2 08/16/2024 02:24:11                      Wolf-Rayet Nebula       Cepheus  60.0   0.0  0.7
+                 Elephant's Trunk (IC 1396, 60.0', 0.0)                   21h38m58s +57d29m21s           324.8        57.5     68.1    57.4 08/16/2024 01:43:58                            Dark Nebula       Cepheus  60.0   0.0  0.7
+         Fossil Footprint Nebula (NGC 1491, 12.0', 0.0)                   04h03m14s +51d18m57s            60.8        51.3     19.8    29.4                                            Emission Nebula       Perseus  12.0   0.0  0.6
+                    Cocoon Nebula (IC 5146, 12.0', 0.0)                   21h53m29s +47d16m01s           328.2        47.3     64.2    81.6 08/16/2024 01:58:31                        Emission Nebula        Cygnus  12.0   0.0  0.6
+        Perseus Galaxy Cluster (Abell 426, 150.0', 0.0)                   03h18m36s +41d30m54s            49.7        41.5     15.6    41.7                                             Galaxy Cluster       Perseus 150.0   0.0  0.6
+                       Bode's Galaxy (M 81, 27.0', 6.9)                   09h55m33s +69d03m56s           148.9        69.1     33.2   344.0                      08/16/2024 02:01:39            Galaxy    Ursa Major  27.0   6.9  0.6
+           North America Nebula (NGC 7000, 120.0', 0.0)                   20h59m17s +44d31m00s           314.8        44.5     71.6    98.8 08/16/2024 01:04:31                        Emission Nebula        Cygnus 120.0   0.0  0.6
+             Flying Dragon Nebula (Sh2-114, 60.0', 0.0)                   21h21m12s +38d42m00s           320.2        38.7     65.0   105.8 08/16/2024 01:26:27                        Emission Nebula        Cygnus  60.0   0.0  0.6
+                      Hermit Crab (Sh2-112, 15.0', 0.0)                   20h33m49s +45d38m00s           308.5        45.6     76.1   102.8 08/16/2024 00:39:01                        Emission Nebula        Cygnus  15.0   0.0  0.6
+                    Pinwheel Galaxy (M 101, 29.0', 7.9)                   14h03m13s +54d20m56s           210.8        54.3     44.7   306.5                                                     Galaxy    Ursa Major  29.0   7.9  0.5
+                                                   Moon 18h07m18.24632481s -28d33m34.41943924s           271.8       -28.6      8.5   195.0                                                     Planet  Solar System 150.0 -11.4  0.0
+                                                   Mars   05h04m16.27618012s +22d26m55.399002s            76.1        22.5    -11.5    30.6                                                     Planet  Solar System  30.0   0.9  0.0
+                                                Jupiter 05h01m45.22274949s +22d03m49.70790774s            75.4        22.1    -11.6    31.3                                                     Planet  Solar System  50.0  -2.2  0.0
+                                                 Uranus  03h38m14.6494935s +19d10m51.98822997s            54.6        19.2     -5.5    50.2                                                     Planet  Solar System  20.0   5.8  0.0
+                                                Neptune 23h58m44.90548351s -01d34m01.23972985s           359.8        -1.6     10.9   105.9                                                     Planet  Solar System  15.0   7.7  0.0
